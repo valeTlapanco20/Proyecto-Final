@@ -15,6 +15,10 @@ El menú debe tener las siguientes opciones:
 - Cena
 - Bebidas
 - Postres
+Proceso:
+- Solicitar al usuario el menú que desea ordenar
+- Preguntar al usuario si desea ordenar una bebida
+- Preguntar si el usuario desea ordenar un postre
 Salida:
 
 ~~~
