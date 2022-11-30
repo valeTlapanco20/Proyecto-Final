@@ -40,7 +40,7 @@ Salida:
 
 ## 03. Diseño de la solución
 
-![T3A6](![T3A6](https://user-images.githubusercontent.com/115035734/201532975-df183b50-2b51-46c5-872b-ac44770be59d.png))
+![T3A6]()
 
 ## Etapa 04. Diseño de la solución
 
