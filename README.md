@@ -40,7 +40,7 @@ Salida:
 
 ## 03. Diseño de la solución
 
-
+https://github.com/valeTlapanco20/Proyecto-Final/blob/main/WhatsApp%20Image%202022-11-29%20at%2017.09.23.jpeg
 
 ## Etapa 04. Diseño de la solución
 
